@@ -1,0 +1,50 @@
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
+
+body {
+	font-family: 'Comfortaa', cursive;
+	font-family: 'Kanit', sans-serif;
+	font-family: 'Noto Sans Osmanya', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
+	color: lightseagreen;
+	background: black;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.photoHead {
+	font-weight: 900;
+	padding: 5px;
+	font-size: larger;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%; 
+}
+
+#feed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.photo {
+	background: white;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
